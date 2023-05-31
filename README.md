@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Syed. Senior Web & Mobile Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h1>
 
 <div align="center">
-  <a href="#"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="375px"/></a>
+  <a href="#"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" height="375px"/></a>
 </div>
 
 
