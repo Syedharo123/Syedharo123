@@ -6,8 +6,8 @@
 
 
 <p align="center">
-  <a href="https://twitter.com/Dmitriy780"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/Dmitriy780?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://github.com/Dmitriy780"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Dmitriy780?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+  <a href="https://twitter.com/Syedharo123"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/Syedharo123?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://github.com/Syedharo123"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Syedharo123?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
 </p>
 
 ## 📖 About me
@@ -31,12 +31,12 @@
 ## 🔥 My contribution streak
 
 <p align="center">
-  <a href="https://github.com/Dmitriy780/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dmitriy780#version3"/>
+  <a href="https://github.com/Syedharo123/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syedharo123#version3"/>
   </a>
 </p>
 
-<h3 align="center">⬇ Scroll down to see <a href="https://github.com/Dmitriy780?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
+<h3 align="center">⬇ Scroll down to see <a href="https://github.com/Syedharo123?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
 
 ## 📘 My top open source projects
 
@@ -50,17 +50,17 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/Dmitriy780/LaTeX-Gboard-Dictionary"><b>LaTeX-Gboard-Dictionary</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Dmitriy780/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Dmitriy780/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/Syedharo123/LaTeX-Gboard-Dictionary"><b>LaTeX-Gboard-Dictionary</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Syedharo123/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Syedharo123/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Dmitriy780/github-readme-streak-stats"><b>GitHub Readme Streak Stats</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Dmitriy780/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Dmitriy780/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/Syedharo123/github-readme-streak-stats"><b>GitHub Readme Streak Stats</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Syedharo123/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Syedharo123/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
     </tr>
      <tr>
-      <td><a href="https://github.com/Dmitriy780/github-readme-youtube-stats"><b>GitHub Readme YouTube Stats</b></a></td>
+      <td><a href="https://github.com/Syedharo123/github-readme-youtube-stats"><b>GitHub Readme YouTube Stats</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-youtube-stats?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/github-readme-youtube-stats?style=flat-square&labelColor=343b41"/></td>
     </tr>
